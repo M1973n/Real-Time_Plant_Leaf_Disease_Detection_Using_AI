@@ -8,9 +8,23 @@ Ensure that you have Python 3.13 installed.
 
 Set up a Python virtual environment and activate it. You can refer to the official Python documentation for instructions.
 
+#Technologies Used
+Python
+TensorFlow
+OpenCV
+Flask (for web interface)
+HTML/CSS/JavaScript (for frontend)
+
 Install all project dependencies by executing the provided command.
 
 Navigate to the Flask Deployed App folder.
+
+#Features
+Real-time detection and classification of plant leaf diseases.
+Support for various plant species and disease types.
+User-friendly interface for easy interaction and visualization of results.
+Compatibility with live camera feeds or pre-captured images for analysis.
+Accurate disease diagnosis based on advanced machine learning models.
 
 Download the pre-trained model file named plant_disease_model_1.pt from here [https://drive.google.com/file/d/1q1xDNv1-ig3mMmQvNyg1iijG-COEjGdN/view?usp=drive_link].
 
